@@ -1,1 +1,3 @@
-alert(document.cookie);
+(function() {
+    alert(document.cookie);
+})();
